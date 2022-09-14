@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\lua_wrap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria_build.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria_decode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria_encode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria_helper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\buffer\CRC32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\branch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\def.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\encrypt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\lua_wrap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria_build.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria_decode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria_encode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\seria_helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\buffer\NetInStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\buffer\NetBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\buffer\CRC32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\buffer\ByteStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\buffer\NetOutStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9813F4F3-5513-3623-8790-CFC6308B74C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{351AF171-4AA6-38DE-A084-B6E519DC7923}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.18362.0
+Debug|Win32|E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\|

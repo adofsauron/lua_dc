@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\CMakeFiles\c775234fe1a48d44b1c739dca2c9497c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8BE04707-1FA9-3897-8507-A6AC320D4963}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

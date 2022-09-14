@@ -1,0 +1,75 @@
+﻿  Building Custom Rule E:/work/h3d_mobile/unity_lua/trunk/server/src/third_party/lua_dc/CMakeLists.txt
+  CMake does not need to re-run because E:/work/h3d_mobile/unity_lua/trunk/server/src/third_party/lua_dc/CMakeFiles/generate.stamp is up-to-date.
+cl : 命令行 warning D9002: 忽略未知选项“-fPIC”
+  log.cpp
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(75): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\time.h(506): note: 参见“localtime”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  lua_wrap.cpp
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(75): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\time.h(506): note: 参见“localtime”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  seria.cpp
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(75): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\time.h(506): note: 参见“localtime”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(75): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(79): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+  seria_build.cpp
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(75): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\time.h(506): note: 参见“localtime”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(75): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(79): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+  seria_decode.cpp
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(75): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\time.h(506): note: 参见“localtime”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(75): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(79): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+  seria_encode.cpp
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(75): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\time.h(506): note: 参见“localtime”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(75): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(79): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+  seria_helper.cpp
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(75): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\time.h(506): note: 参见“localtime”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\log.h(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(75): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\src\tools.h(79): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(440): note: 参见“strtok”的声明
+  CRC32.cpp
+  正在生成代码...
+  lua_dc.vcxproj -> E:\work\h3d_mobile\unity_lua\trunk\server\src\third_party\lua_dc\Release\lua_dc.lib

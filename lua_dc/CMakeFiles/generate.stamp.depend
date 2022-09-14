@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/Compiler/MSVC-C.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake
+E:/work/h3d_mobile/unity_lua/trunk/server/src/third_party/lua_dc/CMakeFiles/3.12.18081601-MSVC_2/CMakeCCompiler.cmake
+E:/work/h3d_mobile/unity_lua/trunk/server/src/third_party/lua_dc/CMakeFiles/3.12.18081601-MSVC_2/CMakeCXXCompiler.cmake
+E:/work/h3d_mobile/unity_lua/trunk/server/src/third_party/lua_dc/CMakeFiles/3.12.18081601-MSVC_2/CMakeRCCompiler.cmake
+E:/work/h3d_mobile/unity_lua/trunk/server/src/third_party/lua_dc/CMakeFiles/3.12.18081601-MSVC_2/CMakeSystem.cmake
+E:/work/h3d_mobile/unity_lua/trunk/server/src/third_party/lua_dc/CMakeLists.txt
